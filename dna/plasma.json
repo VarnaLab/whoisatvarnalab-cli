@@ -1,0 +1,6 @@
+{
+  "whoisatvarnalab": {
+    "source": "./plasma/whoisatvarnalab",
+    "auth": "@secrets.mikrotik-api"
+  }
+}

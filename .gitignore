@@ -1,0 +1,5 @@
+/node_modules
+/npm-debug.log
+/public/release
+/dna/_development/secrets.json
+/dna/_test/secrets.json
